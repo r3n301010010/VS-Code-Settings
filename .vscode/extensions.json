@@ -1,0 +1,19 @@
+{
+	"recommendations": [
+		"ChakrounAnas.turbo-console-log",
+		"esbenp.prettier-vscode",
+		"eserozvataf.one-dark-pro-monokai-darker",
+		"kisstkondoros.vscode-gutter-preview",
+		"meganrogge.template-string-converter",
+		"moalamri.inline-fold",
+		"pflannery.vscode-versionlens",
+		"PKief.material-icon-theme",
+		"ritwickdey.LiveServer",
+		"usernamehw.errorlens",
+		"voldemortensen.rainbow-tags",
+		"Vue.volar",
+		"Vue.vscode-typescript-vue-plugin",
+		"WallabyJs.console-ninja",
+		"wix.vscode-import-cost"
+	]
+}
